@@ -120,4 +120,8 @@ body {
     .item-one-footer {
         padding-left: 1em;
     }
+
+    .footer {
+        margin-bottom: 0px;
+    }
 }
